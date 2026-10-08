@@ -1,0 +1,13 @@
+{
+  "itemGroup.ancientartifice": "Example Mod Tab",
+  "block.ancientartifice.example_block": "Example Block",
+  "item.ancientartifice.example_item": "Example Item",
+
+  "ancientartifice.configuration.title": "Ancient Artifice Configs",
+  "ancientartifice.configuration.section.ancientartifice.common.toml": "Ancient Artifice Configs",
+  "ancientartifice.configuration.section.ancientartifice.common.toml.title": "Ancient Artifice Configs",
+  "ancientartifice.configuration.items": "Item List",
+  "ancientartifice.configuration.logDirtBlock": "Log Dirt Block",
+  "ancientartifice.configuration.magicNumberIntroduction": "Magic Number Text",
+  "ancientartifice.configuration.magicNumber": "Magic Number"
+}
